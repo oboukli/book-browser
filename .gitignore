@@ -1,0 +1,34 @@
+# VS Code
+.vscode
+
+# macOS
+.DS_Store*
+Icon?
+._*
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# Windows
+desktop.ini
+
+# Linux
+.directory
+*~
+
+# npm
+node_modules
+
+dist
+
+typings
+
+visualstudio
+.vs
+
+spec/**/*.js
+spec/**/*.js.map
+spec/**/*.d.ts
+
+tmp

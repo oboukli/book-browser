@@ -1,0 +1,12 @@
+/* Ultra stylish stuff ;) */
+
+body {
+  /* Stolen from the Open Library. */
+  background: #e2dcc5;
+  color: #333;
+  font-family: "Lucida Grande", Verdana, Geneva, Helvetica, Arial, sans-serif;
+}
+
+.relative-time {
+  display: block;
+}

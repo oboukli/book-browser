@@ -1,4 +1,4 @@
-# Task 2 🛴🛴
+# A Web Components experiment
 
 ## Installation
 
